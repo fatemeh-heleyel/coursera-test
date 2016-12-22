@@ -37,3 +37,27 @@
     background-color: blue;
   } *****/
 }
+h1 {
+  margin-bottom: 30px;
+  margin-right: auto;
+  margin-left: auto;
+  font-family: Helvetica;
+}
+#p1 {
+  background-color: gray;
+  float: left;
+  height: 500px;
+  width: 500px;
+}
+#p2 {
+  background-color: gray;
+  float: right;
+  height: 500px;
+  width: 500px;
+}
+#p3 {
+  background-color: gray;
+  clear: both;
+  height: 500px;
+  width: 500px;
+}
